@@ -1,4 +1,3 @@
-# add your code here
 text = input("Please enter text you want to encrypt")
 result = ""
 shift = 5
